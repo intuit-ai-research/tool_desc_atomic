@@ -1,0 +1,7 @@
+data/.DS_Store
+*.pyc
+data/
+keys.json
+.DS_Store
+*.ipynb
+.llm_cache/
