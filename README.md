@@ -1,1 +1,1 @@
-doc: https://docs.google.com/document/d/10zH1BPuSFgWDhjJ8bi656xIx6FOYSj1U50Wktp6bPoQ/edit?tab=t.0
+Analyzes execution traces (successes and failures) to generate rule-enriched descriptions. Uses Explanation-Based Learning (EBL) to extract rules from traces and incorporate them into tool descriptions.
